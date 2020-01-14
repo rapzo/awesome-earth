@@ -24,13 +24,13 @@ collections:
               - { label: 'Categories', name: 'categories', widget: 'list' }
               - { label: 'Tags', name: 'tags', widget: 'list' }
               - {
-                  label: 'Description',
-                  name: 'description',
-                  widget: 'markdown',
-                }
-              - {
                   label: 'Image',
                   name: 'image',
                   widget: 'image',
                   required: false,
+                }
+              - {
+                  label: 'Description',
+                  name: 'description',
+                  widget: 'markdown',
                 }
