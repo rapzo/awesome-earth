@@ -20,7 +20,7 @@ collections:
             widget: list
             fields:
               - { label: 'Title', name: 'title', widget: 'string' }
-              - { label: 'Url', name: 'url', widget: 'string' }
+              - { label: 'Url', name: 'url', widget: 'string', required: false }
               - { label: 'Categories', name: 'categories', widget: 'list' }
               - { label: 'Tags', name: 'tags', widget: 'list' }
               - {
