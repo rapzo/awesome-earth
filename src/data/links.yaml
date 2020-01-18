@@ -15,6 +15,7 @@ links:
       - carbon-reduction
     tags: ['app']
     description: Application that incentive user to change vehicles that emit CO2 for another that not do that and generate one crypto coin for this users.
+    image: ''
 
   - title: Offset Earth
     featured: true
@@ -25,6 +26,7 @@ links:
       - reforestation
     tags: ['business']
     description: Monthly subscriptions for you, your family, and your business, where money goes to Eden Reforestation Projects who plant trees and offset and reduce carbon emissions around the world in a myriad of ways.
+    image: ''
 
   - title: CarbonFund.org
     url: https://carbonfund.org/
@@ -33,6 +35,7 @@ links:
       - carbon-reduction
     tags: ['carbon-reduction']
     description: Calculate your footprint based on flights, driving, shipping, and make tax-deductible donations to offset your emissions.
+    image: ''
 
   - title: Carbon Footprint Extension
     url: https://gitlab.com/aossie/CarbonFootprint
@@ -40,6 +43,7 @@ links:
       - carbon-reduction
     tags: ['carbon-reduction']
     description: Automatically estimates CO2 emissions on Google Maps™, other maps services and train and flight search engines.
+    image: ''
 
   - title: Ecosia
     url: https://www.ecosia.org
@@ -47,6 +51,7 @@ links:
       - carbon-reduction
     tags: ['carbon-reduction']
     description: The search engine that plants trees. >50% of the ad revenue goes directly to planting trees.
+    image: ''
 
   # Waiting for them to add Gold Standard, ASC, etc links to their project pages
   # - title: Cloverly
@@ -63,6 +68,7 @@ links:
     tags: ['carbon-reduction']
     description: This charity was created to tackle climate change by reducing carbon emissions from rainforest loss.
     charity_url: https://www.guidestar.org/profile/26-3688173
+    image: ''
 
   - title: atmosfair
     url: https://www.atmosfair.de/
@@ -72,6 +78,7 @@ links:
       - carbon-reduction
     tags: ['nomad']
     description: Calculate the footprint for flights and buy compensation or donate to offset any number of carbon emissions. Tax-deductible in Germany.
+    image: ''
 
   - title: Leave Me Alone
     featured: true
@@ -80,6 +87,7 @@ links:
       - carbon-reduction
     tags: ['carbon-reduction']
     description: Emails contribute to 986,000 tonnes of CO2 being dumped into the atmosphere every day, that's 4g per email. Unsubscribe from unwanted subscription emails and reduce your carbon footprint.
+    image: ''
 
   - title: Live Green
     featured: true
@@ -89,6 +97,7 @@ links:
       - carbon-reduction
     tags: ['carbon-reduction']
     description: Track your daily carbon emissions from meals, travel, purchases, and more! Set goals to reduce your emissions and your impact on the planet.
+    image: ''
 
   - title: MyClimate
     url: https://myclimate.org/
@@ -96,6 +105,7 @@ links:
       - carbon-reduction
     tags: ['business']
     description: Helping reduce emissions through a whole bunch of different projects, from consulting companies on their footprint (and helping them to reduce), to education at schools, forest restoration, providing people in Rwanda with efficient cook stoves, and [a whole bunch more](https://www.myclimate.org/information/climate-protection-projects/). Fund them via donations, and use their flight/car/house/company footprint calculators.
+    image: ''
 
   - title: Gold Standard
     url: https://www.goldstandard.org/take-action/offset-your-emissions
@@ -103,6 +113,7 @@ links:
       - carbon-reduction
     tags: ['carbon-reduction']
     description: Offset carbon emissions by purchasing verified carbon credits from a variety of certified, environmentally friendly projects.
+    image: ''
 
   - title: CarbonFootprint.com
     url: https://www.carbonfootprint.com/
@@ -110,6 +121,7 @@ links:
       - carbon-reduction
     tags: ['business']
     description: Measure you carbon footprint, learn how to reduce your consumption, offset your impact, communicate, and comply.
+    image: ''
 
   - title: The US EPA's Carbon Footprint Calculator
     url: https://www3.epa.gov/carbon-footprint-calculator/
@@ -118,6 +130,7 @@ links:
       - carbon-reduction
     tags: ['carbon-reduction']
     description: The calculator estimates your footprint in three areas- home energy, transportation and waste. Everyone's carbon footprint is different depending on their location, habits, and personal choices.
+    image: ''
 
   - title: Before the Flood
     url: https://www.imdb.com/title/tt5929776/
@@ -125,6 +138,7 @@ links:
       - documentaries
     tags: ['documentaries']
     description: A look at how climate change affects our environment and what society can do to prevent the demise of endangered species, ecosystems and native communities across the planet.
+    image: ''
 
   - title: GasLand
     url: https://www.imdb.com/title/tt1558250/
@@ -132,6 +146,7 @@ links:
       - documentaries
     tags: ['documentaries']
     description: An exploration of the fracking petroleum extraction industry and the serious environmental consequences involved.
+    image: ''
 
   - title: GasLand Part II
     url: https://www.imdb.com/title/tt2795078/
@@ -139,6 +154,7 @@ links:
       - documentaries
     tags: ['documentaries']
     description: The gas industry's portrayal of natural gas as a clean and safe alternative to oil is a myth, and that fracked wells inevitably leak over time, contaminating water and air, hurting families, and endangering the earth's climate with the potent greenhouse gas methane.
+    image: ''
 
   - title: The Coconut Revolution
     url: https://www.imdb.com/title/tt0479000/
@@ -146,6 +162,7 @@ links:
       - documentaries
     tags: ['documentaries']
     description: This is the modern-day story of a native peoples' remarkable victory over Western Colonial power. A Pacific island rose up in arms against giant mining corporation Rio Tinto Zinc (RTZ) - and won despite a military occupation and blockade.
+    image: ''
 
   - title: Chasing Coral
     featured: true
@@ -154,6 +171,7 @@ links:
       - documentaries
     tags: ['documentaries']
     description: Coral reefs around the world are vanishing at an unprecedented rate. A team of divers, photographers and scientists set out on a thrilling ocean adventure to discover why and to reveal the underwater mystery to the world.
+    image: ''
 
   - title: Our Planet
     url: https://www.imdb.com/title/tt9253866/
@@ -161,6 +179,7 @@ links:
       - documentaries
     tags: ['documentaries']
     description: Documentary series focusing on the breadth of the diversity of habitats around the world, from the remote Arctic wilderness and mysterious deep oceans to the vast landscapes of Africa and diverse jungles of South America.
+    image: ''
 
   - title: More than Honey
     url: https://www.imdb.com/title/tt2263058/
@@ -168,6 +187,7 @@ links:
       - documentaries
     tags: ['documentaries']
     description: An in-depth look at why bees, worldwide, are facing extinction. With the tenacity of a man out to solve a world-class mystery, he investigates this global phenomenon.
+    image: ''
 
   - title: Tapped
     url: https://www.imdb.com/title/tt1344784/
@@ -175,6 +195,7 @@ links:
       - documentaries
     tags: ['documentaries']
     description: Examines the role of the bottled water industry and its effects on our health, climate change, pollution, and our reliance on oil.
+    image: ''
 
   - title: Virunga
     url: https://www.imdb.com/title/tt3455224/
@@ -182,6 +203,7 @@ links:
       - documentaries
     tags: ['documentaries']
     description: A team of brave individuals risk their lives to protect the last mountain gorillas.
+    image: ''
 
   - title: 'The Power of Community: How Cuba Survived Peak Oil'
     url: https://www.imdb.com/title/tt0814275/
@@ -189,6 +211,7 @@ links:
       - documentaries
     tags: ['documentaries']
     description: A great example of how a community can survive the oil apocalypse. Cubans were on the edge of starvation due to the oil crisis - the average Cuban lost 20 pounds. The Cuban people helped avert disaster from the bottom up by reclaiming land everywhere and began growing vegetables on them. Here we see the importance of recovering lost knowledge to ensure communal survival.
+    image: ''
 
   - title: Garbage Warrior
     featured: true
@@ -197,6 +220,7 @@ links:
       - documentaries
     tags: ['documentaries']
     description: Imagine a home that heats itself, that provides its own water, hat grows its own food. Imagine that it needs no expensive technology, that it recycles its own waste, that it has its own power source. And now imagine that it can be built anywhere, by anyone, out of the things society throws away. Thirty years ago, architect Michael Reynolds imagined just such a home - then set out to build it. A visionary in the classic American mode, Reynolds has been fighting ever since to bring his concept to the public. He believes that in an age of ecological instability and impending natural disaster, his buildings can - and will - change the way we live. Shot over three years in the USA, India and Mexico, Garbage Warrior is a feature-length documentary film telling the epic story of maverick architect Michael Reynolds, his crew of renegade house builders from New Mexico, and their fight to introduce radically different ways of living.
+    image: ''
 
   - title: Where the Heck is Donlin?
     url: https://vimeo.com/64608183
@@ -204,6 +228,7 @@ links:
       - documentaries
     tags: ['documentaries']
     description: Sited deep in the Bush of Southwestern Alaska, the Donlin Gold prospect is the largest proposed gold mine in Alaska's history. However, an overwhelming majority of Alaskan residents are unfamiliar with the details of it's development and implications. Noting the absence of available data, as well as the lack of awareness surrounding the proposal, Bjorn and Kim took on the ground-truth-trekking model of investigative research, and set out to explore some of the unanswered questions from the source. Completing a three-part, 1,000 mile human powered wilderness expedition through the proposed footprint of the mine, they engaged the people that they encountered on the subjects of perpetual waste storage, the significance of subsistence fisheries, the energy demands of a large-scale mine, and the challenges facing rural residents to name a few.
+    image: ''
 
   - title: No Impact Man
     featured: true
@@ -212,6 +237,7 @@ links:
       - documentaries
     tags: ['documentaries']
     description: Follow the Manhattan-based Beavan family as they abandon their high consumption 5th Avenue lifestyle and try to live a year while making no net environmental impact.
+    image: ''
 
   - title: Community Power
     url: https://communitypower.ie/
@@ -220,6 +246,7 @@ links:
       - renewable-energy
     tags: [energy-supply, 'business']
     description: Ireland's first community owned electricity supplier which collaborates with Local Sustainable Energy Communities! Whether you are a household, community, business, public or private building, you can switch and buy your electricity from Community Power.
+    image: ''
 
   - title: Big Clean Switch
     featured: true
@@ -229,6 +256,7 @@ links:
       - renewable-energy
     tags: [renewable-energy, energy-supply]
     description: Do energy differently. Switch in minutes to a green electricity tariff from one of the UK's leading suppliers.
+    image: ''
 
   - title: Carbon Intensity API
     url: https://carbonintensity.org.uk/
@@ -238,6 +266,7 @@ links:
       - renewable-energy
     tags: ['developers']
     description: This officially backed open API from Oxford University and the National Grid ESO gives a snapshot of how much carbon each unit of electricity consumed in the UK emits for every half hour. Also carries forecasts, regional breakdowns with some great charts and re-useable widgets. They also have an [APP!](https://www.cs.ox.ac.uk/people/alex.rogers/gridcarbon/)
+    image: ''
 
   - title: Electricity Map
     url: https://www.electricitymap.org/
@@ -245,6 +274,7 @@ links:
       - renewable-energy
     tags: ['renewable-energy']
     description: A map showing the energy consumption, renewable penetration and carbon emissions from energy for many countries around the world. If you're country isn't covered you can contribute a data source.
+    image: ''
 
   - title: SparkMeter
     url: http://www.sparkmeter.io/
@@ -252,6 +282,7 @@ links:
       - renewable-energy
     tags: ['renewable-energy']
     description: Humanitarian smart energy metering solution that purchases wasted unused electricity from utilities and resells it to hard-to-reach places and under served markets, thus reducing overall energy consumption.
+    image: ''
 
   - title: Green-E
     featured: true
@@ -261,6 +292,7 @@ links:
       - renewable-energy
     tags: [energy-supply]
     description: Find a renewable energy provider near you. Green-e certified renewable energy and carbon offset products meet the most stringent environmental and consumer protection standards in North America. You can search below for certified green power and renewable energy certificate programs for your home or business, and carbon offset products to offset your emissions from activities like driving and flying. As a third-party certifier, Green-e® doesn't sell renewable energy or offsets, but offers these links to retailers that do.
+    image: ''
 
   - title: Ecotricity
     featured: true
@@ -270,6 +302,7 @@ links:
       - renewable-energy
     tags: [energy-supply]
     description: 100% green electricity. They generate 1/5th from their fleet of windmills and sunmills, and buy the rest from other green generators. They also turn our customers’ bills into new sources of green energy, making more green electricity all the time.
+    image: ''
 
   - title: Good Energy
     url: https://www.goodenergy.co.uk/
@@ -278,6 +311,7 @@ links:
       - renewable-energy
     tags: [energy-supply]
     description: One of the few energy suppliers in the UK to generate renewable power from their own wind and solar farms, and buy renewable power from small independent renewable generators. From local farmers and community energy schemes to sustainable businesses that generate their own power and sell them the excess. A true renewable supplier, not just coal power + offset credits.
+    image: ''
 
   - title: The Green Flying Duty
     featured: true
@@ -286,6 +320,7 @@ links:
       - politics
     tags: ['carbon-tax']
     description: The UK is one of the few countries to tax aviation fuel, but it is too low, and not ringfenced for climate solutions. The Green Flying Duty proposal is a reformed version of the UK's APD, that will be ring-fenced for Research and Development (R&D) in electric aviation and to improve railway connectivity. Suggest this to politicians worldwide.
+    image: ''
 
   - title: No Fracking in Alaska’s Arctic Wildlife Refuge
     url: https://act.nrdc.org/letter/welcome-arctic-190603
@@ -294,6 +329,7 @@ links:
       - politics
     tags: ['politics']
     description: Alaska’s Arctic National Wildlife Refuge is one of our last truly wild places — and it has been off-limits to oil companies for decades. But the Trump administration is closer than any administration in history to tearing open the Arctic Refuge for destructive oil and gas drilling.
+    image: ''
 
   - title: U.S. Gas-powered car free by 2040
     url: https://www.curbed.com/2019/5/21/18632816/zero-emission-vehicles-act-ban-cars
@@ -302,6 +338,7 @@ links:
       - politics
     tags: ['politics']
     description: Federal legislation was proposed in both the House of Representatives and the Senate that could radically shift the way the U.S. tackles its climate crisis. The Zero-Emission Vehicles Act would eliminate the sale of gas-powered passenger cars in the U.S. by 2040.
+    image: ''
 
   - title: U.S. Save the "Clean Power Plan"
     url: https://www.nrdc.org/save-clean-power-plan
@@ -310,6 +347,7 @@ links:
       - politics
     tags: ['politics']
     description: Fossil-fueled power plants are responsible for nearly 40 percent of America’s carbon footprint. The Clean Power Plan calls for setting limits on this climate-warming pollution from these power plants, specifically at least 32 percent by 2030, compared to 2005 levels. By 2030, the Clean Power Plan could save the United States $20 billion in climate-related costs and deliver up to $34 billion in health benefits.
+    image: ''
 
   - title: U.K. Double Tree Cover
     featured: true
@@ -319,6 +357,7 @@ links:
       - politics
     tags: ['politics']
     description: Over the centuries the United Kingdom has cleared its forests, leaving it with some of the lowest levels of woodland in Europe. If the government is serious about protecting the climate, it needs to bring back the lost trees.
+    image: ''
 
   - title: Energy Innovation and Carbon Dividend Act
     featured: true
@@ -328,6 +367,7 @@ links:
       - politics
     tags: ['politics']
     description: The Energy Innovation and Carbon Dividend Act (H.R. 763) will drive down America's carbon pollution and bring climate change under control, while unleashing American technology innovation and ingenuity. This policy was also introduced in the Senate in 2018 as S. 3791.
+    image: ''
 
   - title: Our Children's Trust
     featured: true
@@ -350,6 +390,7 @@ links:
       - politics
     tags: ['politics']
     description: Leading the game-changing, youth-driven, global climate recovery campaign to secure the legal right to a stable climate and healthy atmosphere.
+    image: ''
 
   - title: Get Trump Out of Office
     url: https://www.nytimes.com/interactive/2019/climate/trump-environment-rollbacks.html
@@ -358,6 +399,7 @@ links:
       - politics
     tags: ['politics']
     description: U.S. President Donald Trump is actively fighting to destroy the environment as quickly as possible. Here are 85 rules he is rolling back, plus he has replaced the EPA [with a bunch of industrial pollution lobbyists](https://www.environmentalintegrity.org/trump-watch-epa/whos-running-trumps-epa/) and he [doesn't think sea level rise is an issue](https://qz.com/1054418/trump-executive-order-the-white-house-doesnt-think-sea-level-rise-is-important-to-us-infrastructure/).
+    image: ''
 
   - title: Arbor Day Foundation
     url: https://www.arborday.org/
@@ -365,6 +407,7 @@ links:
       - reforestation
     tags: ['reforestation']
     description: The Arbor Day Foundation is a 501(c)(3) nonprofit conservation and education organization. A million members, donors, and partners support our programs to make our world greener and healthier.
+    image: ''
 
   - title: Eden Reforestation Projects
     url: https://edenprojects.org/
@@ -372,6 +415,7 @@ links:
       - reforestation
     tags: ['reforestation']
     description: Eden Reforestation Projects reduces extreme poverty and restores healthy forests by employing local villagers to plant millions of trees every year.
+    image: ''
 
   - title: Form Ghana
     url: https://www.formghana.com/
@@ -380,6 +424,7 @@ links:
     tags: ['reforestation']
     countries: [gh]
     description: A forest plantation management company based in central Ghana that provides services in the field of reforestation of degraded Forest Reserves and plantation management.
+    image: ''
 
   - title: Form International
     url: https://www.forminternational.nl/
@@ -387,6 +432,7 @@ links:
       - reforestation
     tags: ['reforestation']
     description: Form International is a forest management and services company that manages forest assets in Africa and delivers a range of technical and financial services to clients worldwide.
+    image: ''
 
   - title: Team Trees
     featured: true
@@ -395,6 +441,7 @@ links:
       - reforestation
     tags: ['reforestation']
     description: TeamTrees started in May 2019 when the internet challenged [Mr. Beast](https://twitter.com/MrBeastYT) to plant 20 million trees to commemorate hitting the 20M subscriber milestone. Fans then suggested he band together with a bunch of other YouTubers and influencers to make it happen.
+    image: ''
 
   - title: Treedom
     featured: true
@@ -403,6 +450,7 @@ links:
       - reforestation
     tags: ['reforestation']
     description: Treedom lets you buy or gift a real tree, where somebody will plant it for you and follow it online.
+    image: ''
 
   - title: Trees for the Future
     url: https://trees.org/
@@ -410,6 +458,7 @@ links:
       - reforestation
     tags: ['reforestation']
     description: TREES plants all sorts of trees and plants, and nearly all of the trees used are either native or naturalized in the environments where they are planted. They partner with farmers to understand their needs and match them with species that will suit their needs and be environmentally benign.
+    image: ''
 
   - title: Tree-Nation
     url: https://tree-nation.com/projects
@@ -417,6 +466,7 @@ links:
       - reforestation
     tags: ['business']
     description: Buy trees for you or your company, and get them planted all over the world.
+    image: ''
 
   - title: Droneseed
     featured: true
@@ -426,6 +476,7 @@ links:
       - land-management
     tags: ['business', 'local-authorities', 'land-owners']
     description: They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
+    image: ''
 
   - title: Dronecoria
     url: http://dronecoria.org/
@@ -434,6 +485,7 @@ links:
       - land-management
     tags: [business, local-authorities, land-owners, open-source, developers]
     description: Open-source drone reforestation technology. Drones, coupled with native coated seeds, can transform the efficiency with which we restore ecosystems.
+    image: ''
 
   - title: Land Life Company
     url: https://landlifecompany.com/
@@ -441,6 +493,7 @@ links:
       - reforestation
     tags: ['reforestation']
     description: Their mission is to reforest the world’s 2 billion hectares of degraded land. Using drones and automated planting, they plant at scale in urban environments using a fraction of the water.
+    image: ''
 
   - title: WeForest
     url: https://www.weforest.org/
@@ -448,6 +501,7 @@ links:
       # - deforestation
       - reforestation
     description: Building upon corporate and scientific partnerships, WeForest empowers communities to sustainably advance and implement innovative, high standard, scalable and lasting solutions to restore forest landscapes.
+    image: ''
 
   - title: EcoTree
     url: https://ecotree.green/
@@ -455,6 +509,7 @@ links:
       - reforestation
     tags: ['reforestation']
     description: Support the European forests and reap the benefits. Plant trees and compensate your CO2 footprint.  Offer trees as an original and meaningful gift. Building complex, resistant, and multifunctional forests to promote resilience. For every tree harvested, three new ones are planted.
+    image: ''
 
   - title: Smartliners
     url: https://smartlinerpads.com/
@@ -462,6 +517,7 @@ links:
       - sustainable-lifestyle
     tags: ['feminine-products']
     description: Reduce the impact on the environment caused by sanitary waste using Organic Cotton Period Pads.
+    image: ''
 
   - title: Transition Network
     url: https://transitionnetwork.org
@@ -469,6 +525,7 @@ links:
       - sustainable-lifestyle
     tags: ['sustainable-lifestyle']
     description: A global movement of communities coming together to reimagine and actively rebuild our world. The terms transition town, transition initiative and transition model refer to grassroot community projects that aim to increase self-sufficiency to reduce the potential effects of peak oil, climate destruction, and economic instability.
+    image: ''
 
   - title: All Green
     url: https://www.all-green.co.uk/
@@ -477,6 +534,7 @@ links:
     tags: ['sustainable-lifestyle']
     countries: [gb]
     description: A selection of environmentally products for the home, garden, pets and other stuff.
+    image: ''
 
   - title: Bees Wrap
     featured: true
@@ -486,6 +544,7 @@ links:
     tags: ['sustainable-lifestyle']
     countries: [us]
     description: Stop using cling film and start using reusable recyclable wraps made from bees wax and organic jojoba oil.
+    image: ''
 
   - title: Bio-plastic Trash Bags
     url: https://www.amazon.com/Plant-Based-Kitchen-Handles-Gallon/dp/B071JMFKM5/
@@ -494,6 +553,7 @@ links:
     tags: ['sustainable-lifestyle']
     countries: [us]
     description: Made from Plant Based (sugar cane) materials instead of fossil fuel.
+    image: ''
 
   - title: Clean Cult
     featured: true
@@ -503,6 +563,7 @@ links:
     tags: ['sustainable-lifestyle']
     countries: [us]
     description: Cleaning supplies with zero-waste packaging, and a powerful clean that's better for you and the planet.
+    image: ''
 
   - title: Fairphone
     featured: true
@@ -511,6 +572,7 @@ links:
       - sustainable-lifestyle
     tags: ['sustainable-lifestyle']
     description: A phone for everyone who cares about how their products are made. It improves the conditions of the people who make it and uses materials that are better for the planet.
+    image: ''
 
   - title: Happy Cow
     url: https://www.happycow.net
@@ -518,6 +580,7 @@ links:
       - sustainable-lifestyle
     tags: ['sustainable-lifestyle']
     description: Reduce or avoid meat entirely by finding great vegetarian or vegan food all over the world.
+    image: ''
 
   - title: Improve how you do laundry
     url: https://greenlivingideas.com/2014/09/23/3-easy-ways-to-green-your-laundry/
@@ -525,6 +588,7 @@ links:
       - sustainable-lifestyle
     tags: ['sustainable-lifestyle']
     description: Six tips for a more sustainable laundry routine.
+    image: ''
 
   - title: Sonny
     url: https://www.indiegogo.com/projects/sonny-a-portable-bidet-for-eco-conscious-humans/x/17318484#/
@@ -532,6 +596,7 @@ links:
       - sustainable-lifestyle
     tags: ['sustainable-lifestyle']
     description: A sustainable alternative to wipes and paper for better hygiene and a greener planet.
+    image: ''
 
   - title: The Good Roll
     featured: true
@@ -542,6 +607,7 @@ links:
     countries:
       - nl
     description: Mail order 100% tree-friendly toilet paper made from post-consumer recycled paper.  50% of net profit from sales of The Good Roll is invested in the installation of safe toilets in East Africa.
+    image: ''
 
   - title: Who Gives a Crap
     url: https://whogivesacrap.org/
@@ -550,6 +616,7 @@ links:
     tags: ['sustainable-lifestyle']
     countries: [au, us, gb]
     description: We make all of our products with environmentally friendly materials, and we donate 50% of our profits to help build toilets for those in need.
+    image: ''
 
   - title: Palm-Oil Free Products
     url: https://orangutanfoundation.org.au/palm-oil/
@@ -557,6 +624,7 @@ links:
       - sustainable-lifestyle
     tags: ['sustainable-lifestyle']
     description: Make sure your makeup, biofuel, popcorn, candy, and other [various products](https://www.ethicalconsumer.org/palm-oil/palm-oil-free-list) are palm-oil free. The World Wildlife Fund estimates that 48 football fields worth of rainforest are cut down every minute! It’s estimated that palm oil plantations now cover around 27 million hectares. The forests being clear cut are often habitat for orangutans, who will be completely gone within 5-10 years at this rate.
+    image: ''
 
   - title: Grayl Water Filter
     url: https://grayl.com/
@@ -565,6 +633,7 @@ links:
     tags: ['sustainable-lifestyle']
     countries: [us]
     description: Water bottle with built in filter that works like a french press.  Great for urban and outdoor use.
+    image: ''
 
   - title: iPhone 11 Bio Case from Moment
     url: https://www.shopmoment.com/shop/iphone-bio-case/iphone-11
@@ -572,6 +641,7 @@ links:
       - sustainable-lifestyle
     tags: ['sustainable-lifestyle']
     description: A fully compostable protective case for your iPhone. Only compatible with iPhone 11 (for now).
+    image: ''
 
   - title: Pela Case
     url: https://pelacase.com/
@@ -579,6 +649,7 @@ links:
       - sustainable-lifestyle
     tags: ['sustainable-lifestyle']
     description: 100% Compostable phone case for iPhone and Android made with flax. Also 0-waste screen protectors and sunglasses.
+    image: ''
 
   - title: Recover Brands
     url: https://recoverbrands.com/
@@ -586,6 +657,7 @@ links:
       - sustainable-lifestyle
     tags: ['sustainable-lifestyle']
     description: Soft and strong T-shirts, each made from 8 plastic bottles. Closed Loop manufacturing from the start.
+    image: ''
 
   - title: Alternative Apparel
     url: https://www.alternativeapparel.com/
@@ -593,6 +665,7 @@ links:
       - sustainable-lifestyle
     tags: ['sustainable-lifestyle']
     description: Low impact dyes, and post-consumer recycled polyester are used with Fair Labor Association guidelines.
+    image: ''
 
   - title: Lehman's
     url: https://www.lehmans.com/
@@ -600,6 +673,7 @@ links:
       - sustainable-lifestyle
     tags: ['sustainable-lifestyle']
     description: One-stop shop for non-electric, homesteading, survival, handmade, Amish made, plastic free, durable, quality goods.  If you envision switching to live a simpler life, this place has all the tools you need to do so.
+    image: ''
 
   - title: Ecocina Rocket Stoves
     url: http://www.stoveteam.org/
@@ -607,6 +681,7 @@ links:
       - cooking
     tags: ['cooking']
     description: Wood fired cook stove that uses ~40-50% less fuel than traditional fires and emits ~1/3 the CO2. Learn how to build one!  Check out their research center at [Aprovecho](http://aprovecho.org/).
+    image: ''
 
   - title: Seafood Watch
     url: https://www.seafoodwatch.org/
@@ -614,6 +689,7 @@ links:
       - cooking
     tags: ['cooking']
     description: Seafood Watch recommends seafood that is fished or farmed in ways that promote healthy oceans. They recommend best options, good alternatives, and things to avoid.
+    image: ''
 
   - title: Sun Oven
     url: https://www.sunoven.com
@@ -622,6 +698,7 @@ links:
       - cooking
     tags: ['cooking']
     description: Insulated solar oven that can cook food just like a regular oven.
+    image: ''
 
   - title: Insulated Cooking
     url: https://www.milkwood.net/2015/07/06/thermal-cooking/
@@ -629,6 +706,7 @@ links:
       - cooking
     tags: ['cooking']
     description: Discover a great way not only to use less energy in food preparation, but to serve tastier and more nutritious meals at the same time.  Any recipe that calls for boiling, simmering, steaming, or roasting will often taste better— [hot from the haybox](https://www.motherearthnews.com/diy/haybox-cooking-zmaz80jfzraw) — than it would with regular stove preparation ... and you'll save heat energy at the same time.  You can pick up a pot-sized [thermal cooker](http://www.cookingworld.biz/thermal-cooker-guide/), or simply put a blanket in a cooler.
+    image: ''
 
   - title: Preserve extra food with a solar dehydrator
     url: https://www.motherearthnews.com/diy/tools/solar-food-dehydrator-plans-zm0z14jjzmar
@@ -636,6 +714,7 @@ links:
       - cooking
     tags: ['cooking']
     description: A solar food dehydrator is a device that removes moisture from food to aid in its preservation. You can [buy a simple one](https://www.kickstarter.com/projects/mixedmediaeng/dryceratop-solar-food-dehydrator-for-mason-jars/description) or make your own.  Food drying is a method of preserving fruit, vegetables, and animal proteins that has been practiced since antiquity.
+    image: ''
 
   - title: Go Sun
     url: https://www.gosun.co/
@@ -643,6 +722,7 @@ links:
       - cooking
     tags: ['cooking']
     description: An innovative portable ultra-efficient solar cooker that can be used for backpacking, boating, car camping, etc.
+    image: ''
 
   - title: Cycle to Work Scheme UK
     url: https://www.cyclingweekly.com/news/latest-news/cycle-to-work-scheme-10-things-to-know-5055/amp
@@ -652,6 +732,7 @@ links:
     countries:
       - gb
     description: This scheme allows employees to spend on bikes and equipment, tax-free, making a claimed saving of up to 42 per cent on the overall value.
+    image: ''
 
   - title: Cycle to Work Scheme Ireland
     url: https://www.revenue.ie/en/jobs-and-pensions/taxation-of-employer-benefits/cycle-to-work-scheme.aspx
@@ -661,6 +742,7 @@ links:
     countries:
       - ie
     description: Under the scheme your employer can buy a bicycle and safety equipment for you, up to €1,000 per bicycle and safety equipment.
+    image: ''
 
   - title: BlaBlaCar
     featured: true
@@ -692,6 +774,7 @@ links:
       - tr
       - ua
     description: The world’s leading long-distance carpooling platform, which is available in most of Europe and Mexico.
+    image: ''
 
   - title: Poparide
     url: https://www.poparide.com/
@@ -702,6 +785,7 @@ links:
     countries:
       - ca
     description: Get a ride or fill a seat for rideshares between cities in Canada. Having 3 people in the car can be more efficient than some of their big-ass trains and is 1/5th the impact of flying.
+    image: ''
 
   - title: WageWorks Bicycle Reimbursement Program
     url: https://www.wageworks.com/employees/lifestyle-benefits-programs/bicycle-reimbursement-program/
@@ -710,6 +794,7 @@ links:
     tags: ['bike-commute', commute]
     countries: [us]
     description: Ride your bike to work and pay for eligible bike-related expenses, and then get reimbursed for those expenses.
+    image: ''
 
   - title: Waze Carpool
     featured: true
@@ -718,6 +803,7 @@ links:
       - transportation
     tags: [carpool, commute]
     description: Choose to drive or ride, and match with people based on route and time of day.
+    image: ''
 
   - title: Pod Point
     url: https://pod-point.com
@@ -726,6 +812,7 @@ links:
     tags: ['transportation', commute]
     countries: [gb]
     description: UK leaders in electric vehicle charging with innovative solutions for homes, workplaces and commercial organizations.
+    image: ''
 
   - title: Biking vs. Driving Calculator
     url: https://bicycleuniverse.com/car-free-millionaire/
@@ -733,6 +820,7 @@ links:
       - transportation
     tags: [commute]
     description: Riding your bike can make you a millionaire! You're paying more for your car than you think. A typical American who goes car-free for 35 years can save nearly a million dollars, even adjusted for inflation, and even if they pay for taxi, bus, and car-share trips often. Use the calculator to find how much you can save in your particular situation.
+    image: ''
 
   - title: EcoBnB
     url: https://ecobnb.com/
@@ -740,6 +828,7 @@ links:
       - travel
     tags: [accommodation, travel, nomad]
     description: Find accommodation for a trip with a focus on sustainability. Most locations get their electricity from renewable sources, you wont find loads of single-use plastics, they recycle more than 80% of their waste, etc.
+    image: ''
 
   - title: Home Exchange
     featured: true
@@ -748,6 +837,7 @@ links:
       - travel
     tags: [accommodation, travel, nomad]
     description: Swap homes with another family instead of spending money at a fancy hotel, as hotels have a much higher footprint due to the constant cleaning, overactive AC, etc.
+    image: ''
 
   - title: Responsible Vacation
     url: https://www.responsiblevacation.com/
@@ -755,6 +845,7 @@ links:
       - travel
     tags: [vacation, travel, nomad]
     description: A travel company who run sustainable trips all over the world. Sail from Scotland to Iceland, cycle across Vietnam, hike in Peru. Admittedly some of these trips will require a flight to get there, but one trip a year (or alternative years) is probably reasonable. At least when you get there, these vacations will be helping and protecting local nature, wildlife and culture.
+    image: ''
 
   - title: Rubicon 3
     url: https://www.rubicon3.co.uk/
@@ -762,6 +853,7 @@ links:
       - travel
     tags: [sailing, travel, nomad]
     description: Join the crew of one of our sailing expeditions for one of the greatest adventures you can have. Sail from country to country, exploring the world’s most awe-inspiring areas. Learn to sail as you go from inspiring instructors. Make landfall and explore ashore far from the beaten track.
+    image: ''
 
   - title: Shift
     url: https://shift.andrewpairman.com/
@@ -770,6 +862,7 @@ links:
       - carbon-reduction
     tags: [electricity]
     description: Shift highlights the varying carbon intensity of the UK electricity grid. It recommends the least intense two hour period, within the next 24 hours, to help you minimise your carbon dioxide (CO₂) emissions on a regional level.
+    image: ''
 
   - title: Flight Free (USA)
     url: https://flightfreeusa.org/
@@ -779,6 +872,7 @@ links:
       - carbon-reduction
     tags: [carbon-reduction, travel]
     description: A grassroots campaign which asks people to agree not to fly in the year of 2020 – on condition that 100,000 others will also pledge to do the same.
+    image: ''
 
   - title: Flight Free (UK)
     url: https://flightfree.co.uk/
@@ -788,6 +882,7 @@ links:
       - carbon-reduction
     tags: [carbon-reduction, travel]
     description: Aviation is the fastest growing contributor to greenhouse gas emissions at a time when we desperately need to reduce them. Pledge to go flight free in 2020.
+    image: ''
 
   - title: Flight Free (Canada)
     url: https://flightfree.ca
@@ -797,6 +892,7 @@ links:
       - carbon-reduction
     tags: [carbon-reduction, travel]
     description: Aviation is the fastest growing contributor to greenhouse gas emissions at a time when we desperately need to reduce them. Pledge to go flight free in 2020.
+    image: ''
 
   - title: Restons les pieds sur terre
     url: https://www.facebook.com/restonslespiedssurterre/
@@ -806,6 +902,7 @@ links:
       - carbon-reduction
     tags: [carbon-reduction, travel]
     description: Aviation is the fastest growing contributor to greenhouse gas emissions at a time when we desperately need to reduce them. Pledge to go flight free in 2020.
+    image: ''
 
   - title: Mijn Impact
     url: https://www.mijnimpact.app/
@@ -814,6 +911,7 @@ links:
       - carbon-reduction
     tags: [carbon-reduction, app]
     description: Discover the effect of your sustainable choices. The app that provides easy insight into the CO2 impact of your purchases - and challenges you to reduce your impact with personal goals.
+    image: ''
 
   - title: Maris - Freighter Cruises
     featured: true
@@ -821,12 +919,14 @@ links:
     categories: [travel]
     tags: [travel, nomad]
     description: These giant freight ships are not running on renewable energy, but if you need to cross an ocean this is the way to do it. Europe to North America, England to Australia, Shanghai to Argentina. It's slower, but your carbon footprint will be saved.
+    image: ''
 
   - title: Slow Travel (Langsamreisen)
     url: https://www.langsamreisen.de/
     categories: [travel]
     tags: [travel, nomad]
     description: A travel company all about sustainable and conscious travel. Piggy back on a cargo ship to get to that new job on the other side of the world. Sailing trips to get around without a footprint. Maybe take the trans-siberian railway.
+    image: ''
 
   - title: Algramo
     url: https://www.algramoalmacenes.com/
@@ -834,6 +934,7 @@ links:
     tags: ['plastic']
     countries: [cl]
     description: Vending machines and mobile refill units for refilling reusable plastic bottles with staple goods from shampoo to salad dressing in packaging that is designed to be returned, cleaned, and reused.  With over 2,000 bodegas in Santiago and plans to expand in the US soon, Algramo, translates to "by the gram", also solves the issue of "poverty tax" where small packages can cost as much as 50% more than the same product in a larger size.
+    image: ''
 
   - title: Blue Jeans Go Green
     url: https://bluejeansgogreen.org/
@@ -841,6 +942,7 @@ links:
     categories: ['zero-waste']
     tags: ['recycle']
     description: Send in your used jeans to get transformed into natural cotton fiber insulation, some of which is used to help with building efforts around the country.
+    image: ''
 
   - title: Bio Bean
     featured: true
@@ -849,6 +951,7 @@ links:
     categories: ['zero-waste']
     tags: ['recycle', 'business']
     description: The world’s largest recycler of coffee grounds, Bio Bean recycle spent coffee grounds into sustainable products, like coffee logs for fires, and other biomass fuel.
+    image: ''
 
   - title: Litterati
     url: https://www.litterati.org/
@@ -856,6 +959,7 @@ links:
       - zero-waste
     tags: ['zero-waste']
     description: Empowering people to clean the planet. Photograph a piece of litter, tag it, and discard properly.  Participate in a challenge and hold wasteful brands accountable.
+    image: ''
 
   - title: Too Good To Go
     url: https://toogoodtogo.co.uk/
@@ -863,6 +967,7 @@ links:
       - zero-waste
     tags: ['zero-waste']
     description: Sell your surplus food, easily and sustainably!  Save delicious food and fight food waste.  Find your favorite food and go rescue it.
+    image: ''
 
   - title: City Harvest
     url: https://www.cityharvest.org/
@@ -871,6 +976,7 @@ links:
     tags: ['zero-waste']
     countries: [us]
     description: City Harvest is New York City’s largest food rescue organization. They rescue food and deliver it to hundreds of food pantries, soup kitchens and other community partners.
+    image: ''
 
   - title: Donate Toys
     url: https://www.moneycrashers.com/where-donate-used-toys/
@@ -879,6 +985,7 @@ links:
     tags: ['zero-waste']
     countries: [us]
     description: Donate toys that your children have grown out of instead of throwing them away.
+    image: ''
 
   - title: Dabchy
     url: https://www.dabchy.com/
@@ -889,6 +996,7 @@ links:
     countries:
       - tn
     description: Tunisian second hand clothes marketplace.
+    image: ''
 
   - title: thredUP
     url: https://www.thredup.com/
@@ -898,6 +1006,7 @@ links:
     tags: [clothing, reuse]
     countries: [us]
     description: Second hand clothes, up-cycled to avoid the electricity, carbon, etc waste of making new clothes, and keeping them from a landfill. Women and kids but nothing for men.
+    image: ''
 
   - title: Worn Wear
     featured: true
@@ -908,6 +1017,7 @@ links:
     tags: [clothing, reuse, repair, second-hand]
     countries: [us]
     description: A set of tools to help our customers partner with Patagonia to take mutual responsibility to extend the life of the products Patagonia makes and customers purchase. You can buy second-hand repaired or re-crafted clothes, or trade in used Patagonia clothes for credit for new items.
+    image: ''
 
   - title: Good Condom Company
     url: https://www.thegoodc.company/
@@ -915,6 +1025,7 @@ links:
       - sustainable-lifestyle
     tags: ['sustainable-lifestyle']
     description: Fuck each other, not the planet. Condoms made of natural latex from sustainably managed rubber plantations in Malaysia.
+    image: ''
 
   - title: Earth Hero
     url: https://earthhero.com/
@@ -923,6 +1034,7 @@ links:
       - sustainable-lifestyle
     tags: ['sustainable-lifestyle']
     description: Our brands are made with better materials, cleaner production, a lower carbon footprint, higher quality, and with less waste. When you shop on EarthHero, you contribute to a better future for us all.
+    image: ''
 
   - title: Go "Swaggless"
     url: https://twitter.com/lindybrandon/status/1131202229229314048
@@ -930,6 +1042,7 @@ links:
       - zero-waste
     tags: ['business']
     description: Nobody needs another corporate logo stress ball or other pointless swag. Convince your company to skip the nonsense and donate to something worthwhile - like their [Offset Earth](https://offset.earth/business) business account!
+    image: ''
 
   - title: Olio
     featured: true
@@ -940,6 +1053,7 @@ links:
     countries:
       - gb
     description: We connect neighbors to share food, and other things, rather than chuck them away.
+    image: ''
 
   - title: 'OpenStreetMap: Zero Waste (Overpass)'
     url: http://overpass-turbo.eu/?template=key&key=zero_waste
@@ -947,6 +1061,7 @@ links:
       - zero-waste
     tags: ['zero-waste']
     description: OpenStreetMap has the tag zero_waste=* for shops who sell items without packaging.
+    image: ''
 
   - title: Original Unverpackt
     url: https://original-unverpackt.de/
@@ -956,6 +1071,7 @@ links:
     countries:
       - de
     description: Zero packaging supermarket in Berlin. _Original Unverpackt hat sich als erster Supermarkt weltweit dem Zero-Waste-Lifestyle gewidmet._
+    image: ''
 
   - title: Rethink Food NYC
     url: https://www.rethinkfood.nyc/
@@ -964,6 +1080,7 @@ links:
     tags: ['zero-waste']
     countries: [us]
     description: They pick up unused, excess food from restaurants, farms, and other food purveyors, and re-purpose it into delicious and nutritious meals for under-served New Yorkers.
+    image: ''
 
   - title: Kaiyo
     url: https://kaiyo.com/
@@ -971,6 +1088,7 @@ links:
       - zero-waste
     tags: ['zero-waste']
     description: Buy and sell used furniture to keep it out of landfill. They'll even come and pick it up! _I've used this to get rid of a giant sofa which nobody wanted to buy, it was about to go on the street and they got me a cheque._
+    image: ''
 
   - title: Karma
     url: https://new.karma.life/
@@ -978,6 +1096,7 @@ links:
       - zero-waste
     tags: ['zero-waste']
     description: A Swedish company that lets restaurants sell surplus food at a lower price. It lets you pay less for food and prevent food waste.
+    image: ''
 
   - title: Geev
     url: https://corporate.geev.com/
@@ -985,6 +1104,7 @@ links:
       - zero-waste
     tags: ['zero-waste']
     description: An online application to exchange stuffs and food between people. Easily discuss, meet and give a second life to objects and food.  The more you give the more people trust you when you want to get something.
+    image: ''
 
   - title: GrowNYC Food Scrap Collection Schedule
     url: https://www.grownyc.org/compost/locations
@@ -993,6 +1113,7 @@ links:
       - zero-waste
     tags: ['zero-waste']
     description: Interactive map with over 150 residential Food Scrap Drop-Off sites in NYC.
+    image: ''
 
   - title: 'Domestic Renewable Heat Incentive (RHI)'
     url: https://www.gov.uk/domestic-renewable-heat-incentive
@@ -1002,6 +1123,7 @@ links:
       - renewable-energy
     tags: ['home-owner']
     description: You could get money towards renewable heating costs in your home. You can claim for biomass boilers, solar water heating, heat pumps. Payments are made for 7 years and are based on the amount of renewable heat made by your heating system.
+    image: ''
 
   - title: 'Non-domestic Renewable Heat Incentive (RHI)'
     url: https://www.gov.uk/non-domestic-renewable-heat-incentive
@@ -1010,6 +1132,7 @@ links:
       - renewable-energy
     tags: ['business']
     description: The non-domestic Renewable Heat Incentive helps businesses, public sector and non-profit organisations meet the cost of installing renewable heat technologies.
+    image: ''
 
   - title: Hamwells Showers
     url: https://www.hamwells.com/
@@ -1017,6 +1140,7 @@ links:
       - home-improvements
     tags: ['home-owner']
     description: Shower systems that utilize heat exchangers to recapture heat and filtered pumps to recycle water up to 7 times before it is drained, thus significantly reducing water usage and energy consumption.
+    image: ''
 
   - title: Nebia Showers
     url: https://nebia.com/
@@ -1024,6 +1148,7 @@ links:
       - home-improvements
     tags: ['home-owner']
     description: Nebia is proud to offer products that transform your mundane shower routine into a ritual, and also contribute to preserving the planet.
+    image: ''
 
   - title: Regency Wood Stove Fireplace Inserts
     url: https://www.regency-fire.com/en/Products/Wood/Wood-Inserts
@@ -1032,6 +1157,7 @@ links:
       - home-improvements
     tags: ['home-owner']
     description: If solar heating is not an option, wood stove inserts can update your drafty, open wood fireplace. They'll send less heat out the chimney, and more heat around your house, drastically improving your wood burning efficiency. They pump the smoke back into the fire to burn that off too, which sends less crap into the atmosphere. Try to use [coffee logs](https://www.bio-bean.com/elements/coffee-logs-and-retailers/) instead of wood.
+    image: ''
 
   - title: Solar Water Heaters
     url: https://www.energy.gov/energysaver/water-heating/solar-water-heaters
@@ -1039,6 +1165,7 @@ links:
       - home-improvements
     tags: ['home-owner']
     description: Solar hot water systems capture thermal energy from the sun and use it to heat water for your home. Systems can either be passive or active – while passive systems use gravity and natural circulation, active systems use pumps and controls to circulate water.
+    image: ''
 
   - title: Environmentally Friendly Roof Insulation
     url: https://www.greenlivingtips.com/articles/environmentally-friendly-roof-insulation.html
@@ -1046,6 +1173,7 @@ links:
       - home-improvements
     tags: ['home-owner']
     description: However you heat your home, make sure you aren't leaking heat through insufficient insulation, and save money.
+    image: ''
 
   - title: EPA's Responsible Appliance Disposal
     url: https://www.epa.gov/rad
@@ -1054,6 +1182,7 @@ links:
     tags: ['home-owner']
     countries: [us]
     description: RAD is a voluntary partnership program that works with utilities, retailers, manufacturers, state and local government agencies, affiliates, and others to dispose of old refrigerated appliances using the best environmental practices available.
+    image: ''
 
   - title: Solar Thermal Energy
     url: https://en.wikipedia.org/wiki/Solar_thermal_energy
@@ -1061,6 +1190,7 @@ links:
       - home-improvements
     tags: ['home-owner']
     description: Solar thermal technology can be used for cooking, heating your home through radiant floors, radiators, or forced air. It can be used to heat water directly for hot showers too.
+    image: ''
 
   - title: PlanetCare Microfibre Laundry Filters
     url: https://www.planetcare.org
@@ -1068,6 +1198,7 @@ links:
       - home-improvements
     tags: ['home-improvements']
     description: 35% of microplastics are fibers that are released when we wash our clothes.  With consumer and industrial laundry filters, tackle the problem close to the source – with a filter in your washing machine.  PlanteCare makes efficient, practical and affordable laundry filters that allow every household to stop sending microfibres into the environment.
+    image: ''
 
   - title: Sense
     url: https://sense.com/
@@ -1075,6 +1206,7 @@ links:
       - home-improvements
     tags: ['home-owner']
     description: Sense is a home energy monitor that gives real-time insight into your home’s energy usage. Sense gives people the knowledge they need to reduce their energy costs and usage, with profound effects on the environment- the company estimates that its users are saving a total of 53 million pounds of CO2 annually.
+    image: ''
 
   - title: Rigo Paint - Made From Flax
     url: https://www.rigoverffabriek.nl/
@@ -1082,6 +1214,7 @@ links:
       - home-improvements
     tags: ['home-owner', 'business']
     description: Check out their Aquamarine line oil paint and RigoStep water-based paints.  Their oil paints depend on locally grown flax, which is heated and pressed by traditional windmills to extract the oil. Once mixed with other solvents, this forms the liquid base for the paint.
+    image: ''
 
   - title: NY State Home Energy Assessment tool
     url: https://stars.nyserdagreenny.org/
@@ -1090,6 +1223,7 @@ links:
       - home-improvements
     tags: ['home-owner']
     description: Get a home energy audit and receive tools, resources, and aid to upgrade your home to be more energy efficient.
+    image: ''
 
   - title: EnergyStar.gov
     url: https://www.energystar.gov/
@@ -1098,6 +1232,7 @@ links:
       - home-improvements
     tags: ['home-owner', 'business']
     description: Energy efficiency ratings, suppliers, and tax credits for products, homes, utilities, and local governments.  ENERGY STAR is the government-backed symbol for energy efficiency, providing simple, credible, and unbiased information that consumers and businesses rely on to make well-informed decisions.
+    image: ''
 
   - title: Carbon Brief
     url: https://www.carbonbrief.org/
@@ -1105,6 +1240,7 @@ links:
       - news
     tags: ['news']
     description: UK-based website covering the latest developments in climate science, climate policy and energy policy. Clear, data-driven articles and graphics to help improve the understanding of climate change, both in terms of the science and the policy response.
+    image: ''
 
   - title: The Guardian
     url: https://www.theguardian.com/uk/environment
@@ -1112,6 +1248,7 @@ links:
       - news
     tags: ['news']
     description: The Guardian covers international environmental issues and climate change.
+    image: ''
 
   - title: Good
     url: https://www.good.is/planet
@@ -1119,6 +1256,7 @@ links:
       - news
     tags: ['news']
     description: Good and upworthy news covering big issues, 'making purpose contagious'.
+    image: ''
 
   - title: David Bauer's Climate Crisis Collection
     url: https://refind.com/davidbauer/climate-crisis
@@ -1126,6 +1264,7 @@ links:
       - news
     tags: ['news']
     description: How we got here, where we're headed and what we can do about it.
+    image: ''
 
   - title: BBC.com Climate Change
     url: https://www.bbc.com/news/topics/cmj34zmwm1zt/climate-change
@@ -1133,6 +1272,7 @@ links:
       - news
     tags: ['news']
     description: BBC may give fairly slanted reporting when it comes to partisan UK politics, but their climate coverage is usually pretty on point.
+    image: ''
 
   - title: US Green Build Council
     url: https://www.usgbc.org/articles
@@ -1141,24 +1281,28 @@ links:
     tags: ['news']
     countries: [us]
     description: Transforming how buildings are designed, constructed and operated through the LEED construction standard. Articles about benchmarking energy efficiency of materials, city strategy, measuring the health of indoor spaces, reducing off-gassing, and improving air quality.
+    image: ''
 
   - title: Citizens Climate Lobby
     url: https://citizensclimatelobby.org/
     categories: [volunteering]
     tags: ['volunteering']
     description: If you’re an English, economics or poly sci major, you probably should consider volunteering for Citizens’ Climate Lobby, an organization focused on confronting climate change through policy.
+    image: ''
 
   - title: ClimateAction.Tech
     url: https://climateaction.tech/
     categories: [volunteering]
     tags: ['volunteering', 'developers']
     description: A global community of tech professionals using our skills, expertise and platforms to support solutions to the climate crisis. The mission is to empower technology professionals to play our part — to meet, discuss, learn and take climate action.
+    image: ''
 
   - title: ClimatePrediction.net
     url: https://www.climateprediction.net/
     categories: [volunteering]
     tags: ['volunteering']
     description: The world’s largest climate modelling experiment. Evidence of how our climate is changing is vital to reducing greenhouse gas emissions.  Help discover how the climate could look by running software on your computer.
+    image: ''
 
   - title: Economists for Future
     url: https://econ4future.org/
@@ -1170,30 +1314,35 @@ links:
       If the discipline which dedicates itself to studying the economy cannot
       sufficiently engage in the economic transformation that the climate science
       requires, then who else can be expected to do this?
+    image: ''
 
   - title: Eyes of the Reef Hawai'i
     url: https://eorhawaii.org/2013/07/18/become-a-member/
     categories: [volunteering]
     tags: ['volunteering']
     description: Network to inform, engage and train people to identify coral bleaching, disease and invasive species outbreaks. They have a broad outreach program that helps to provide critical training for rapid response monitoring and stewardship of precious marine resources.
+    image: ''
 
   - title: Habitat for Humanity
     url: http://www.habitat.org/getinv
     categories: [volunteering]
     tags: ['volunteering']
     description: Habitat for Humanity is well known for building simple, affordable homes for people in need. But recently the organization has implemented new programs recognizing climate change as a major threat to the environment and which can destroy the homes they build.
+    image: ''
 
   - title: Clean Trails
     url: https://www.cleantrails.org/join
     categories: [volunteering]
     tags: ['volunteering']
     description: Step by step, and little by little, our aim is to eliminate waste on all the trails that grace our public lands.  We believe we can do that in a positive and proactive manner by educating, encouraging, and reconnecting outdoor users to our pristine places.
+    image: ''
 
   - title: Take Climate Action
     url: https://takeclimateaction.uk/
     categories: [volunteering]
     tags: [community, action-group]
     description: Climate Action groups are made up of people like you and together they’ll bring about big systemic change. Join the network and kick-start climate action in your community.
+    image: ''
 
   - title: Tree Folks
     url: https://www.treefolks.org/volunteer/
@@ -1201,12 +1350,14 @@ links:
     tags: ['volunteering']
     countries: [us]
     description: Tree planting and tree care events around Austin, Texas, from October to April.
+    image: ''
 
   - title: Precious Plastic
     url: https://preciousplastic.com/
     categories: [volunteering, zero-waste]
     tags: [community, developers]
     description: A global community of hundreds of people working towards a solution to plastic pollution. Knowledge, tools and techniques are shared online, for free. So everyone can start (yes, you too!). People all over the world contribute to the project with their skills & knowledge. Join the fight against plastic pollution.
+    image: ''
 
   - title: What is my lamp worth? (The Netherlands)
     url: https://www.watismijnlampwaard.nl/
@@ -1215,6 +1366,7 @@ links:
     tags: [zero-waste]
     countries: [nl]
     description: Find the nearest collection points for discarded electrical appliances and energy-efficient light bulbs. This site helps you responsibly recycle, donate, repair, or sell electrical appliances and lights.
+    image: ''
 
   - title: Metabolic
     url: https://metabolic.nl/news
@@ -1222,6 +1374,7 @@ links:
       - news
     tags: ['news']
     description: Sustainability consultancy in The Netherlands, tracking and reporting on climate action, circular economy, reducing consumption, etc. all over the world.
+    image: ''
 
   - title: The Cleanest Line
     url: https://www.patagonia.com/blog/
@@ -1229,6 +1382,7 @@ links:
       - news
     tags: ['news']
     description: Patagonia's blog on their efforts into political engagement for environmental protection of green spaces, global strikes, their efforts subsidizing solar energy in various communities, and all sorts of other climate action.
+    image: ''
 
   - title: Unwarming
     url: https://unwarming.org/
@@ -1236,6 +1390,7 @@ links:
       - news
     tags: ['news']
     description: Aggregations of climate change and action articles from various major news sources.
+    image: ''
 
   - title: State of the Planet
     url: https://blogs.ei.columbia.edu/category/climate/
@@ -1243,6 +1398,7 @@ links:
       - news
     tags: ['news']
     description: News from the Earth Institute at Columbia University.  Columbia’s Earth Institute blends research in the physical and social sciences, education and practical solutions to help guide the world onto a path toward sustainability.
+    image: ''
 
   - title: Bunq Greencard
     url: https://www.bunq.com/link/upgrade-greencard
@@ -1251,6 +1407,7 @@ links:
     tags: [banking, reforestation]
     countries: [nl]
     description: Dutch online-only bank with a credit card which plants trees for the money you spend.
+    image: ''
 
   - title: Adidas Parley
     url: https://adidas.com/parley
@@ -1258,6 +1415,7 @@ links:
       - sustainable-lifestyle
     tags: [clothing, recycle]
     description: Shoes, apparel and accessories made from upcycled marine plastic waste. Every piece in the collection is made of at least 75% intercepted plastic trash.
+    image: ''
 
   - title: Cariuma
     url: https://cariuma.com/
@@ -1265,6 +1423,7 @@ links:
       - sustainable-lifestyle
     tags: [clothing, recycle]
     description: Old-School sneakers, new school ethics. Cariuma's sneakers are handcrafted with premium natural materials, an obsessive eye for detail, and a conscious mind. They care deeply about our craftsmen, and ensure that they earn fair wages and experience safe working conditions.  Some of their shoes are carbon _negative_, and they are committed to carbon-neutral shipping processes, which they do by purchasing carbon offsets for each shipment.
+    image: ''
 
   - title: How Good
     url: https://howgood.com/
@@ -1272,6 +1431,7 @@ links:
       - sustainable-lifestyle
     tags: [developers, business, app]
     description: Future-Proof your products.  HowGood data offers data to businesses and consumers about product sustainability from 350+ independent sources on over 1 million products.  Extensive data library on product sustainability designed to help brands and retailers use that data to source better and consumers to buy better, to build a better world.
+    image: ''
 
   - title: The Rotten Fruit Box
     url: https://therottenfruitbox.com/
@@ -1280,6 +1440,7 @@ links:
       - zero-waste
     tags: [nomad]
     description: 100% Natural Freeze-Dried Fruit Snacks from Spain and Portugal shipped to you. The fruit you’re enjoying would have otherwise gone unused and rotted away on the ground. We also think that the name "Rotten" helps bring attention to the serious issue of food waste. Delicious, healthy, 100% natural, with a long shelf life, our freeze dried fruit snack pouches are ideal for home, work, office, to take to school, camping or just about anywhere. Help reduce food waste. Help small local farmers. We use 100% compostable packaging and ship with your local postal service because it is the lowest carbon footprint option.  But reducing carbon emissions is not enough, and we plant trees to compensate for our CO2 emissions.
+    image: ''
 
   - title: Pieter Pot
     url: https://www.pieter-pot.nl/
@@ -1291,6 +1452,7 @@ links:
     tags: [zero-waste]
     description: >-
       Your groceries, delivered without packaging. Pieter Pot delivers your groceries with a cargo bike in beautiful glass jars in The Netherlands. Empty pot? Then we fill it again. This is how we make it fun and easy to do shopping without all those unnecessary (plastic) packaging. That's nice, right?
+    image: ''
 
   - title: The Crappy Planet - Bamboo Toilet Paper
     url: https://www.thecrappyplanet.com/
@@ -1304,6 +1466,7 @@ links:
     tags: [zero-waste]
     description: >-
       The use of bamboo significantly reduces deforestation. According to the EPA, one hardwood tree produces approximately 45 kg of toilet paper and about 83 million toilet rolls are produced every day. Bamboo toilet paper production requires less energy, one-fifth of the water, produces considerably more fiber on less land area, generates 30-35% more oxygen than other plants and trees, and it reduces the amount of carbon dioxide by about the same amount.  In addition, the production process requires that water and other materials are collected, reused and recycled. Finally, we invest 25% of our profits to stop deforestation and global warming.
+    image: ''
 
   - title: Vegware
     url: https://vegware.co.uk/
@@ -1313,6 +1476,7 @@ links:
     tags: [business]
     description: >-
       Napkins, carrier bags, salad boxes,sushi trays, cutlery, disposable coffee cups, all made from plants using renewable, lower carbon, recycled or reclaimed materials, and designed to be commercially compostable with food waste, where accepted.
+    image: ''
 
   - title: Natural Resources Conservation Service (NRCS)
     url: https://www.nrcs.usda.gov/
@@ -1321,6 +1485,7 @@ links:
     countries: [us]
     tags: [land-owner]
     description: NRCS will pay you to steward your land, in ways you define. It offers voluntary programs to eligible landowners and agricultural producers to provide financial and technical assistance to help manage natural resources in a sustainable manner. Programs include emergency watershed protection and flood prevention, watershed rehabilitation, surveys and planning, healthy forest reserve easements, agricultural conservation easements, conservation stewardship, and environmental quality incentives.
+    image: ''
 
   - title: Woodland Trust
     url: https://www.woodlandtrust.org.uk/
@@ -1332,6 +1497,7 @@ links:
     tags: [charity, land-owner]
     description: >-
       The Woodland Trust is reforesting the United Kingdom, working with communities, local authorities, and land owners, to get trees in the ground.
+    image: ''
 
   - title: Farm Bot
     url: https://farm.bot/
@@ -1341,6 +1507,7 @@ links:
     tags: [home-owners, land-owner, food, farming, developers, open-source]
     description: >-
       Farm Bot is a fully automated, open-source, crowd-funded project, which helps you grow food for yourself, your family, and your community. Install FarmBot on a raised bed, urban rooftop, or in a small greenhouse at home. Hyper-local food production has never been easier.
+    image: ''
 
   - title: Permaculture Earthworks Handbook
     url: https://permacultureearthworks.com/
@@ -1349,6 +1516,7 @@ links:
     tags: [land-owner, landscaping, farming]
     description: >-
       A detailed guide to the proper design and construction of water harvesting earthworks. It covers the function, design, and construction methods for nine main types of water harvesting earthworks across a full range of climates. Free alternatives are an online course by [Permaculture Women](https://www.permaculturewomen.com/freepermaculturecourse.html), and a four-part documentary by [Geoff Lawton](https://www.geofflawtononline.com/).
+    image: ''
 
   - title: Creating a Land Trust
     url: https://conservationtools.org/guides/150-what-is-a-land-trust
@@ -1358,6 +1526,7 @@ links:
     tags: [land-owner, landscaping, land-trusts, conservation]
     description: >-
       A land trust is a charitable organization that acquires land or conservation easements, or that stewards land or easements, for conservation purposes. Land owners may consider designating portions of their land as a land trust, in order to preserve natural features in perpetuity, and be eligible for tax benefits as a result.
+    image: ''
 
   - title: Google Cloud Computing
     url: https://cloud.google.com/sustainability/
@@ -1373,6 +1542,7 @@ links:
       actively hosts oil and gas companies, who use the platform to find more
       places to dig. Switching to Google Cloud (or a host who in turn is on Google Cloud),
       is one of many ways to make your platform have less impact on the earth.
+    image: ''
 
   - title: Repair Café's
     url: https://repaircafe.org/
@@ -1385,6 +1555,7 @@ links:
       toys, et cetera. You’ll also find expert volunteers, with repair skills in
       all kinds of fields. Repair your stuff, or just enjoy a coffee. They're
       world-wide, and the site is multi-lingual.
+    image: ''
 
   - title: No Meat Today
     url: https://nomeat.today/
@@ -1394,6 +1565,7 @@ links:
     tags: [food, meat, vegetarian, vegan, carbon-reduction, app]
     description: >-
       Your companion to eat less meat. It's good for you and the planet, but let's be honest, eating less meat is hard. Don't do it alone!
+    image: ''
 
   - title: Greenpeace
     url: https://engage.us.greenpeace.org/onlineactions/Hx3BaZLxxkyUUo2Jfzsk7w2
@@ -1403,6 +1575,7 @@ links:
       launching and participating in campaigns and petitions, or go further and
       discover or create events. Play an active role in achieving a green and
       peaceful future!
+    image: ''
 
   - title: Tell Microsoft to End Big Oil Contracts
     url: https://engage.us.greenpeace.org/onlineactions/Hx3BaZLxxkyUUo2Jfzsk7w2
@@ -1416,6 +1589,7 @@ links:
       companies like ExxonMobil that its analytical tools and other AI
       technologies will help them discover and pump even more oil at a lower cost.
       This Greenpeace petition will let Microsoft know this is not acceptable.
+    image: ''
 
   - title: Climate Careers
     url: https://climate.careers/

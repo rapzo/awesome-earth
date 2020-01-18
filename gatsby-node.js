@@ -102,6 +102,10 @@ exports.createPages = async ({ graphql, actions }) => {
         html,
         links: linksForThisCategory,
         slug,
+        images: linksForThisCategory.reduce(
+          (images, { image }) => (!image ? [] : [...images, image]),
+          []
+        ),
       },
     });
   });
