@@ -23,8 +23,6 @@ module.exports = {
         includeInDevelopment: false,
       },
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
     `gatsby-plugin-sass`,
     `gatsby-transformer-yaml`,
     {
@@ -69,6 +67,8 @@ module.exports = {
         name: 'images',
       },
     },
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
     `gatsby-plugin-react-helmet`,
   ],
 };

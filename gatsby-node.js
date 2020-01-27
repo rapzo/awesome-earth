@@ -82,6 +82,20 @@ exports.createPages = async ({ graphql, actions }) => {
 
   const allLinks = allLinksQuery.data.allDataYaml.edges[0].node.links;
 
+  const pics = await graphql(`
+    query {
+      fileName: file(
+        relativePath: { eq: "featured/cards/Beagle_Faraon.jpeg" }
+      ) {
+        childImageSharp {
+          fluid(maxWidth: 400, maxHeight: 250) {
+            src
+          }
+        }
+      }
+    }
+  `);
+
   await asyncForEach(result.data.allMarkdownRemark.edges, async ({ node }) => {
     const {
       frontmatter,
